@@ -1,0 +1,8 @@
+c:\users\miguelfonseca\documents\visual studio 2015\Projects\Integrations\CodedUITests\bin\Debug\CodedUITests.dll.config
+c:\users\miguelfonseca\documents\visual studio 2015\Projects\Integrations\CodedUITests\bin\Debug\CodedUITests.dll
+c:\users\miguelfonseca\documents\visual studio 2015\Projects\Integrations\CodedUITests\bin\Debug\CodedUITests.pdb
+c:\users\miguelfonseca\documents\visual studio 2015\Projects\Integrations\CodedUITests\bin\Debug\nunit.framework.dll
+c:\users\miguelfonseca\documents\visual studio 2015\Projects\Integrations\CodedUITests\bin\Debug\TechTalk.SpecFlow.dll
+c:\users\miguelfonseca\documents\visual studio 2015\Projects\Integrations\CodedUITests\bin\Debug\nunit.framework.xml
+c:\users\miguelfonseca\documents\visual studio 2015\Projects\Integrations\CodedUITests\obj\Debug\CodedUITests.dll
+c:\users\miguelfonseca\documents\visual studio 2015\Projects\Integrations\CodedUITests\obj\Debug\CodedUITests.pdb

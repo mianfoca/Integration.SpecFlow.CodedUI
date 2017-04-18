@@ -1,0 +1,10 @@
+c:\users\miguelfonseca\documents\visual studio 2015\Projects\Integrations\TechTalk.SpecFlow.CodedUI.MsTest\bin\Debug\TechTalk.SpecFlow.CodedUI.MsTest.dll.config
+c:\users\miguelfonseca\documents\visual studio 2015\Projects\Integrations\TechTalk.SpecFlow.CodedUI.MsTest\bin\Debug\TechTalk.SpecFlow.CodedUI.MsTest.dll
+c:\users\miguelfonseca\documents\visual studio 2015\Projects\Integrations\TechTalk.SpecFlow.CodedUI.MsTest\bin\Debug\TechTalk.SpecFlow.CodedUI.MsTest.pdb
+c:\users\miguelfonseca\documents\visual studio 2015\Projects\Integrations\TechTalk.SpecFlow.CodedUI.MsTest\bin\Debug\TechTalk.SpecFlow.dll
+c:\users\miguelfonseca\documents\visual studio 2015\Projects\Integrations\TechTalk.SpecFlow.CodedUI.MsTest\bin\Debug\TechTalk.SpecFlow.Generator.dll
+c:\users\miguelfonseca\documents\visual studio 2015\Projects\Integrations\TechTalk.SpecFlow.CodedUI.MsTest\bin\Debug\TechTalk.SpecFlow.Utils.dll
+c:\users\miguelfonseca\documents\visual studio 2015\Projects\Integrations\TechTalk.SpecFlow.CodedUI.MsTest\bin\Debug\TechTalk.SpecFlow.Parser.dll
+c:\users\miguelfonseca\documents\visual studio 2015\Projects\Integrations\TechTalk.SpecFlow.CodedUI.MsTest\bin\Debug\Gherkin.dll
+c:\users\miguelfonseca\documents\visual studio 2015\Projects\Integrations\TechTalk.SpecFlow.CodedUI.MsTest\obj\Debug\TechTalk.SpecFlow.CodedUI.MsTest.dll
+c:\users\miguelfonseca\documents\visual studio 2015\Projects\Integrations\TechTalk.SpecFlow.CodedUI.MsTest\obj\Debug\TechTalk.SpecFlow.CodedUI.MsTest.pdb
